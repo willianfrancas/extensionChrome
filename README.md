@@ -1,2 +1,2 @@
 # extensionCrhome
-Creation app in the extensiondo Google Crhome
+Creation app in the extension Google Chrome
